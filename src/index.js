@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Birthdayreminder from './Birthdayreminder';
+import Movieapp from './Movieapp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Birthdayreminder />
+    <Movieapp/>
   </React.StrictMode>
 );
 
